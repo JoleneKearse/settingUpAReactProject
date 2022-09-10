@@ -1,0 +1,32 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 1.2rem;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #55286F;
+    background-color: #D8B4E2;
+}
+
+h1,
+h2 {
+    text-align: center;
+    color: #210B2C;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+main {
+    width: 95vw;
+    margin-inline: auto;
+}
